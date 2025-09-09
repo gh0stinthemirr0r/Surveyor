@@ -24,10 +24,3 @@ It provides automated scanning, detailed topology views, and exportable reports 
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/gh0stinthemirr0r/Surveyor.git
-cd Surveyor
-pip install -r requirements.txt
-python main.py
