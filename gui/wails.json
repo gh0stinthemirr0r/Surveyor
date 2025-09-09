@@ -1,0 +1,23 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Surveyor",
+  "outputfilename": "Surveyor",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Aaron Stovall",
+    "email": "iamtheghostinthemirror@pm.me"
+  },
+  "info": {
+    "company": "Aaron Stovall",
+    "product": "Surveyor",
+    "productVersion": "1.0.0",
+    "copyright": "© 2024 Aaron Stovall",
+    "description": "Network Analysis Tool"
+  },
+  "icon": {
+    "file": "appicon.ico"
+  }
+}
